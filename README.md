@@ -21,4 +21,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Enunciado do Exercício
 
-Faça um Programa que converta metros para centímetros.
+Faça um Programa que converta metros para centímetros
